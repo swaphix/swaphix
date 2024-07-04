@@ -19,7 +19,7 @@
     <img alt="LinkedIn" width="48px" src="https://img.icons8.com/nolan/96/linkedin.png" /></a>
   <a href="https://www.youtube.com/@Swaphix" style="margin-right: 20px;">
     <img alt="YouTube" width="48px" src="https://img.icons8.com/nolan/96/youtube-play.png" /></a>
-  <a href="https://twitter.com/Swaphix_team/TitanWithKagune">
+  <a href="https://twitter.com/Swaphix_team">
     <img alt="Twitter" width="48px" src="https://img.icons8.com/nolan/96/twitter.png" /></a>
 </p>
 
