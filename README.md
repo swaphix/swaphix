@@ -1,7 +1,8 @@
-<!-- Title & Hello & Welcome Swaphix -->
-<h1 align="center"><b style="color: #B13CFF;">Swaphix</b></h1>
+<!--Logo de Swaphix -->
 
 <p align="center">
+  <img alt="Swaphix Logo" width="400px" src="https://www.swaphix.com/_next/static/media/logo.1b0fe25f.png" />
+</p>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------->
