@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 
 <p align="center">
-  <img alt="Swaphix Logo" width="360px" src="https://www.swaphix.com/_next/static/media/logo.1b0fe25f.png" />
+  <img alt="Swaphix Logo" width="360px" src="https://www.swaphix.com/_next/static/media/logo-claro.4c843da3.png" />
 </p>
 
 <p align="center">
